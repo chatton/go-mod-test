@@ -1,4 +1,4 @@
-package pkg
+package gomodtest
 
 import "github.com/spf13/cast"
 
