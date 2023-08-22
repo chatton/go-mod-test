@@ -1,3 +1,3 @@
-module github.com/chatton/go-mod-test
+module gomodtest
 
 go 1.20
